@@ -40,6 +40,10 @@
               <date>1823 <!-- @todo EC --></date>
             </imprint>
           </monogr>
+          <idno type="catBnf">https://catalogue.bnf.fr/ark:/12148/cb31433532j</idno>
+          <idno type="gallica" n="vol1">http://gallica.bnf.fr/ark:/12148/bpt6k866132</idno>
+          <idno type="gallica" n="vol2">http://gallica.bnf.fr/ark:/12148/bpt6k86614d</idno>
+          <idno type="gallica" n="vol3">http://gallica.bnf.fr/ark:/12148/bpt6k86615r</idno>
         </biblStruct>
       </sourceDesc>
     </fileDesc>
