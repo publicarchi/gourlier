@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/theorieSchema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Choix d’édifices publics</title>
+        <editor>
+          <persName>
+            <forename>Emmanuel</forename>
+            <surname>Château-Dutier</surname>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp>Transcription</resp>
+          <persName>
+            <forename>Talitha</forename>
+            <surname>Motter</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publicarchitectura</publisher>
+        <date from="2019-02">février 2019-</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Choix d’édifices publics construits et projetés en France</title>
+            <author>
+              <persName>
+                <forename>Charles-Pierre</forename>
+                <surname>Gourlier</surname>
+              </persName>
+            </author>
+            <author>
+              <!-- @todo ajouter les autres auteurs EC -->
+            </author>
+            <imprint>
+              <date>1823 <!-- @todo EC --></date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <group>
+      <text>
+        <front>
+          <titlePage>
+            <titlePart><!-- @todo EC --></titlePart>
+            <!-- @todo EC -->
+          </titlePage>
+          <div type="foreword">
+            <!-- @todo EC -->
+          </div>
+        </front>
+        <body>
+          <pb/>
+          <fw type="pageNum">5</fw>
+          <div type="chapter">
+            <head rend="capital"><label>Première section</label> Édifices religieux</head>
+            <div><p>Nous regrettons <!-- @todo --></p>
+            </div>
+            <div>
+              <div>
+                <head>Église paroissiale de Notre-Dame-de-Lorette,</head>
+                <head>À Paris (Seine) ;</head>
+                <head>Par <persName>M. Hippolyte Lebas</persName>, ancien pensionnaire de l’Académie de France à Rome,</head>
+                <head>1823 à 1836.</head>
+                <label>3 planches numérotées 115, 116 et 117.</label>
+                <p>C’est à la suite <!-- @todo --></p>
+              </div>
+              <div>
+                <head>Église paroissiale de Saint-Vincent,</head>
+                <head><!-- @todo --></head>
+                <!-- @todo -->
+              </div>
+              <fw type="bindmark">T. I.</fw>
+              <cb/><!-- saut de colonne -->
+              <div>
+                <head>Église paroissiale,</head>
+                <head>À Bercy (Seine) ;</head>
+                <!-- @todo ... -->
+              </div>
+              <div>
+                <!-- ... -->
+                <p>La disposition de cet édifice, et l’importance de l’étage de
+                <fw type="bindmark">2</fw>
+                <pb/>
+                <fw type="pageNum">6</fw>
+                </p>
+              </div>
+            </div>
+          </div>
+        </body>
+      </text>
+      <text>
+        <front>
+          <div><!-- ... --></div>
+        </front>
+        <body>
+          <div><!-- ... --></div>
+        </body>
+      </text>
+      <text>
+        <front>
+          <div><!-- ... --></div>
+        </front>
+        <body>
+          <div><!-- ... --></div>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>
