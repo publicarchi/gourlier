@@ -64,40 +64,434 @@
           <pb/>
           <fw type="pageNum">5</fw>
           <div type="chapter">
-            <head rend="capital"><label>Première section</label> Édifices religieux</head>
-            <div><p>Nous regrettons <!-- @todo --></p>
+            <head rend="capital"><label>Première section.</label> Édifices religieux.</head>
+            <div><p>Nous regrettons de ne pouvoir placer en tête de cette section une <emph>Cathédrale</emph> (on sait que ce nom est réservé aux églises près desquelles il y a un <emph>archevêché</emph> ou un <emph>évêché</emph>) ; nous n’en connaissons aucune qui ait été construite à neuf depuis le commencement de ce siècle.</p>
+              <p>Nous aurions désiré pouvoir donner dès à présent, au nombre des <emph>Églises Paroissiales</emph>, celle <emph>de la Madeleine</emph>,
+              à Paris, dont la construction est commencée depuis si long-temps, et dont l’extérieur est entièrement terminé ; mais la décoration intérieure n’en est pas encore assez avancée pour que nous ayons pu la publier.</p>
+              <p>Il en est de même de l'<emph>Église Sainte-Geneviève</emph>, connue sous le nom de <emph>Panthéon français</emph>.</p>
+              <p>Plus tard, nous aurons également à faire connaître plusieurs autres églises qui ont été construites à Paris, ainsi que celle de <emph>Saint-Vincent-de-Paule</emph>, qui est en ce moment en construction.</p>
             </div>
             <div>
               <div>
                 <head>Église paroissiale de Notre-Dame-de-Lorette,</head>
                 <head>À Paris (Seine) ;</head>
-                <head>Par <persName>M. Hippolyte Lebas</persName>, ancien pensionnaire de l’Académie de France à Rome,</head>
+                <head>Par <persName>M. Hippolyte Lebas</persName>, ancien pensionnaire de l’Académie de France à Rome, membre de l'Institut.</head>
                 <head>1823 à 1836.</head>
                 <label>3 planches numérotées 115, 116 et 117.</label>
-                <p>C’est à la suite <!-- @todo --></p>
+                <p>C’est à la suite d’un concours que M. Lebas a été chargé de la construction de cette église.</p>
+                  <p>Indépendamment des tableaux qui sont indiqués dans les coupes, les quatre chapelles d’angle, le pourtour du chœur et du sanctuaire, les pendentifs et les coupoles ont été ornés de peintures représentant des sujets de l’Histoire sainte ; elles ont été exécutées à l’huile sur les murs mêmes, préparés d’après les procédés qui avaient déjà été employés pour la coupole de l’église de Sainte-Geneviève, suivant les indications de <persName>MM. Thénard</persName> et d’<persName>Arcet</persName>, membres de l’Académie des Sciences.</p>
+                  <p>Les artistes les plus célèbres de la capitale ont été chargés de l’exécution de ces différentes peintures, ainsi que des sculptures qui ornent le frontispice, le maître-autel, etc.</p>
+                  <p>Les plafonds des nefs sont exécutés en menuiserie sculptée et dorée.</p>
+                  <p>La dépense totale s’élèvera à environ 1,800,000 fr., indépendamment de près de 400,000 fr. consacrés aux objets d’art.</p>
               </div>
               <div>
                 <head>Église paroissiale de Saint-Vincent,</head>
-                <head><!-- @todo --></head>
-                <!-- @todo -->
+                <head>À Macon (Saône-et-Loire) ;</head>
+                <head>Par feu <persName>M. GUY DE GISORS</persName>, vice-président du Conseil des bâtimens civils.</head>
+                <head>1810.</head>
+                <label>3 planches numérotées 7, 8 et 50.</label>
+                <p>Cette église a été en partie exécutée sous la direction de feu
+                  <persName>M. Guillemot</persName>, ingénieur des ponts et chaussées.</p>
+                  <p>En outre des dessins de l’ensemble de l’édifice, nous donnons,
+                  sur une plus grande échelle, un autel, le banc d’œuvre et un
+                  confessionnal.</p>
               </div>
               <fw type="bindmark">T. I.</fw>
               <cb/><!-- saut de colonne -->
               <div>
                 <head>Église paroissiale,</head>
                 <head>À Bercy (Seine) ;</head>
-                <!-- @todo ... -->
+                <head>Par <persName>M. Chatillom</persName>, ancien pensionnaire de l'Académie de France à Rome.</head>
+                <head>1825.</head>
+                <label>2 planches numérotées 31 et 32.</label>
+                <p>Cette église a coûté environ 271,000 fr.</p>
               </div>
               <div>
-                <!-- ... -->
-                <p>La disposition de cet édifice, et l’importance de l’étage de
+                <head>Église succursale,</head>
+                <head>À Noisy-le-Sec (Seine) ;</head>
+                <head>Par <persName>M. Guennepin</persName>, ancien pensionnaire de l'Académie de France à Rome, membre de l'Institut.</head>
+                <head>1824.</head>
+                <label>1 planche numérotée 1.</label>
+                <p>Cette église a coûté à peu près 45,ooo fr.</p>
+              </div>
+              <div>
+                <head>Chapelle,</head>
+                <head>Dans la Commune des Herbiers (Vendée) ;</head>
+                <head>Par <persName>M. Macquet</persName>, architecte.</head>
+                <head>1825.</head>
+                <label>1 planche numérotée 157.</label>
+                <p>Cet édifice avait été élevé, au point culminant de la Vendée, en mémoire du voyage de <persName>madame la duchesse d’Angoulême</persName> dans ce pays, en 1823.</p>
+                <p>Il a servi ensuite à l’exercice habituel du culte, et a depuis été démoli.</p>
+                <p>Sa construction, toute en granit, a coûté environ 120,000 fr.</p>
+              </div>
+              <div>
+                <head>Évèché,</head>
+                <head>Au Puy (Haute-Loire) ;</head>
+                <head>Par <persName>M. Ledru</persName>, architecte du département du Puy-de-Dòme.</head>
+                <head>1829.</head>
+                <label>2 planches numérotées 193 et 194.</label>
+                <p>La disposition de cet édifice, et l’importance de l’étage de</p>
+              </div>
+              </div>
                 <fw type="bindmark">2</fw>
                 <pb/>
                 <fw type="pageNum">6</fw>
-                </p>
-              </div>
+            <div>
+            <div><p>soubassement, sont motivées par sa situation sur une esplanade élevée, attenante à la cathédrale.</p>
+              <p>On a utilisé, pour la décoration de l’entrée principale, des colonnes qui proviennent de l’ancien palais épiscopal.</p>
+              <p>La dépense s’est élevée à environ........ 220,000 fr.</p>
+            </div>
+          <div>
+            <head>Séminaire,</head>
+            <head>À Moulins (Allier) ;</head>
+            <head>Par <persName>M. Agnety,</persName> architecte du départemcnt.</head>
+            <head>1828 à 1836.</head>
+            <label>2 planches numérotées 67 et 68.</label>
+            <p>Cet édifice n’est pas encore totalement achevé. La dépense totale sera d’environ 3oo,ooo fr.</p>
+          </div>
+          <div>
+            <head>Presbytère,</head>
+            <head>À Langon (Gironde) ;</head>
+            <head>Par <persName>M. Fortévin</persName>, architecte du département.</head>
+            <head>1823.</head>
+            <label>1 planche numérotée 2.</label>
+            <p>Ce presbytère est situé d’une manière très-pittoresque, le jardin étant terminé par une terrasse élevée sur le bord de la
+              Garonne, à un endroit où ce fleuve décrit un coude très-prononcé.</p>
+              <p>Il a coûté environ 15,ooo fr.</p>
+          </div>
+          <div>
+            <head>Temple protestant,</head>
+            <head>À Marseille (Bouches-du-Rhône) ;</head>
+            <head>Par feu <persName>M. Penchaud</persName>, architecte, directeur des travaux publics du département des Bouches-du-Rhône.</head>
+            <head>1824.</head>
+            <label>1 planche numérotée 25.</label>
+            <p>La ville de Marseille compte cinq à six mille protestans,</p>
+          </div>
+          <cb/><!-- saut de colonne -->
+            <div>
+              <p>appartenant presque tous à des familles riches et commerçantes.</p>
+              <p>Le culte réformé y avait été, jusque dans ces derniers temps, célébré dans un édifice à location ; des souscriptions couvertes par les membres des deux communions ont mis à même d’acheter, moyennant 5o,ooo fr., l’emplacement actuel, situé rue Grignan, dans l’un des plus beaux quartiers de la ville, et à proximité de la demeure.de la plupart des religionnaires.</p>
+              <p>La nécessité de contenir une population déjà nombreuse et toujours croissante a forcé, pour faire usage de toute l’étendue du terrain, à tirer les jours du haut.</p>
+              <p>La dépense de construction, non compris le mobilier, a été à peu près de 49.000 fr., dont plus de moitié a été votée par le conseil municipal ; le surplus a été supporté par les religionnaires mêmes.</p>
+            </div>
+             <div>
+              <head>Synagogue,</head>
+              <head>À Paris, rue Notre-Dame-de-Nazareth (Seine) ;</head>
+              <head>Par feu <persName>M. Sandrié</persName>, architete.</head>
+              <head>1819 et 1820.</head>
+             <label>1 planche numérotée 195.</label>
+               <p>Il y a à Paris près de trois mille personnes professant la religion juive ; une assez grande partie de cette population habite le quartier dans lequel cette synagogue a été élevée.</p>
+               <p>Elle a coûté :</p>
+               <p>Pour acquisition de l’emplacement et de quelques constructions qui y existaient.............................. 76,000 fr.</p>
+               <p>Et pour construction..............................236,ooo</p>
+               <p>En tout.........312,000 fr.</p>
+               <p>Cette dépense a été l’objet d’un emprunt contracté avec l’autorisation du Gouvernement, et qui a été rempli par les
+                 religionnaires mêmes.</p> 
+               <p>Le resserrement du terrain entre des propriétés voisines a forcé à en utiliser toute l’étendue, et à n’éclairer cet édifice que par des jours dans la voûte.</p>
             </div>
           </div>
+          </div>
+            <pb/>
+          <fw type="pageNum">7</fw>
+          <div type="chapter">
+            <head rend="capital"><label>Deuxième section.</label> Édifices administratifs.</head>
+            <div><p>Nous plaçons dans ce volume, en tête de cette section, la <emph>Chambre des Députés</emph>, dont les travaux sont terminés depuis plusieurs années ; nous espérons pouvoir donner la même place, dans le volume suivant, <emph>à la Chambre des Pairs</emph>, dont la reconstruction est commencée et doit être achevée promptement.</p>
+              <p>De même, nous donnons ici le <emph>Ministère des Finances</emph>, établi depuis long-temps dans une partie des bâtimens uniformes des rues de Rivoli et de Castiglione ; et nous comptons donner pour le volume suivant l’important édifice du quai d’Orsay, déjà terminé extérieurement, mais dont les intérieurs ne sont point achevés et dont la destination n’est pas encore définitivement fixée.</p>
+              <p>Enfin, plus tard, nous espérons avoir à comprendre dans notre collection l'<emph>Hôtel-de-Ville</emph> de Paris, agrandi et complété d’après le projet dont on s’occupe en ce moment.</p>
+              <p>Nous aurions désiré pouvoir placer, entre les <emph>Hôtels de Préfecture</emph> et les <emph>Hôtels-de-Ville</emph> que nous donnons ici, un <emph>Hôtel de Sous-Préfecture</emph> ; mais il n’en a été construit, à notre connaissance, aucun qui offre un intérêt suffisant.</p>
+            </div>
+            <div>
+            <div>
+              <head>Chambre des députés, et Salle provisoire,</head>
+              <head>À Paris (Seine) ;</head>
+              <head>Par <persName>M. De Joly</persName> architecte de la Chambre.</head>
+              <head>1828 à 1833.</head>
+              <label>5 planches numérotées 181,185 et 186 ; 122 et 123.</label>
+              <p>La principale partie du palais Bourbon, maintenant occupée par la Chambre des Députés et distinguée sur notre plan d’ensemble par une teinte plus foncée, avait été commencée en 1722, pour <persName>S. A. R. Louise de Bourbon</persName>, par un architecte italien nommé Girardini, et continuée successivement par Lassurance, Gabriel et Aubert.</p>
+              <p>Lassurance avait également construit le pavillon, situé à l’extrémité de la grande avenue, qui forme maintenant l’habitation du président de la Chambre, et qui ne fut réuni que plus tard au palais Bourbon, ainsi que les autres bâtimens représentés par le plan d’ensemble.</p>
+              <p>La Révolution ayant fait de ce palais une propriété nationale, il fut en partie affecté à la tenue des séances du Conseil des Cinq-Cents ; et, à cet effet, feu <persName>MM. Gisors aîné</persName> et <persName>Le Comte</persName> firent construire, en l'an III de la République, une salle assez remarquable, sous le rapport de l’art, pour qu’on doive regretter que la précipitation et l’économie apportées à son établissement ne lui aient pas assuré une plus longue durée.</p>
+              <p>Sous l’Empire, le Corps-Législatif y fut également installé ; et, en 1807, feu <persName>M. Poyet</persName> fut chargé de faire élever le péristyle qui fait face au pont de la Concorde.</p>
+              <p>En 1814, la Chambre des Députés continua d’occuper ce local, mais à titre de location, le prince de Condé étant rentré en possession du palais.</p>
+              <p>Dès 1822, des craintes avaient été conçues sur la solidité de l’ancienne salle ; et l’on agita à différentes reprises la question de savoir si l’on devait, ou aviser aux moyens de faire cesser ces craintes, ou choisir un autre local pour la Chambre.</p>
+              <p>Enfin, en 1827, l’État fit l’acquisition de toute la partie du palais qui est distinguée sur le petit plan d’ensemble par une teinte moins foncée (le surplus est depuis devenu, par disposition testamentaire, la propriété de <persName>S. A. R. le duc d’Aumale</persName>) ; et, en 1828, on commença la reconstruction de la salle</p>
+            </div>
+            <cb/><!-- saut de colonne -->
+            <div>
+              <p>et d’une partie de ses dépendances : cette opération est indiquée sur le plan de détail par une teinte plus foncée.</p>
+              <p>Aux élévations et coupes des parties dues à <persName>M. de Joly</persName>, nous joignons l’élévation du péristyle en face du pont, construit par feu <persName>M. Poyet</persName>.</p>
+              <p>La plupart des planchers, des voûtes et des combles, et principalement la coupole de la salle des séances, ont été construits en charpente de fer et en poteries creuses ; les couvertures sont exécutées en cuivre.</p>
+              <p>Des marbres, en grande partie tirés de carrières françaises, et principalement des Pyrénées, ainsi que des peintures et des sculptures dues à nos premiers artistes, ornent la salle des séances et les pièces accessoires les plus importantes.</p>
+              <p>L’ensemble des travaux de reconstruction, restauration, etc., a occasionné unedépense totale de 4,430,000 fr., dont 340,000 fr. ont été consacrés à des objets d’art proprement dits (peinture et statuaire).</p>
+              <p>En 1839, on reconnut qu’il était indispensable de préparer un local provisoire pour la tenue des séances pendant l’exécution des travaux de la salle même ; et, à cet effet, une salle presque toute en charpente fut élevée en moins de deux mois dans une des cours du palais. Nous avons cru qu’il ne serait ni sans utilité, ni sans intérêt, d’en donner également les dessins, auxquels nous avons en conséquence consacré les planches 122 et 123. Cette salle, qui a servi aux sessions de 1830 et de 1831, a coûté à peu près 15o,ooo fr. (les matériaux, comptés seulement pour location, ayant été repris en compte par les entrepreneurs).</p>
+              <p><persName>M. de Joly</persName> prépare, sur la totalité de ces importans travaux, une publication détaillée qui doit paraître très-prochainement.</p>
+            </div>
+            <div>
+              <head>Ministère des finances,</head>
+              <head>À Paris, rue De Rivoli ;</head>
+              <head>Par <persName>M. Destailleur</persName>, architecte du Ministère des finances.</head>
+              <head>1812 à 1827.</head>
+              <label>4 planches numérotées 109,110, 111 et 112.</label>
+              <p>Quelques mots ne seront peut-être pas déplacés ici sur le vaste ensemble formé par les constructions uniformes de la rue de</p>
+            </div>
+            </div>
+            <pb/>
+            <fw type="pageNum">8</fw>
+            <div>
+            <div>
+              <p>Rivoli, qui, en longeant la terrasse dite des Feuillans, complète l’isolement du jardin des Tuileries, et de la rue de Castiglione, qui met ce jardin en communication directe avec la place Vendôme, la rue de la Paix et les boulevards.</p>
+              <p>Dès les premières années du règne de <persName>Louis XVI</persName>, on avait conçu le projet de ces rues, pour l’exécution desquelles il fallait traverser non-seulement l’emplacement de l’ancien manège, mais encore une partie de celui du couvent des Feuillans et des Capucines.</p>
+              <p>La réalisation de ce projet eut lieu vers 1807 ; on arrêta en même temps, d’après les dessins de <persName>MM. Percier</persName> et <persName>Fontaine</persName>, architectes de l’Empereur, le système de décoration uniforme et de portiques qui règne dans ces deux rues. Nulle part ces dispositions ne pouvaient être mieux placées : presque toujours l’inégale division des terrains, et leur possession par des familles plus ou moins aisées, auxquelles il est difficile d’imposer la charge et les gênes d’une décoration uniforme, en rendent l’application à peu près impossible ; et bien souvent, en outre, il n’en résult qu’un aspect froid et monotone. Mais ici les terrains, faisant presque tous partie du domaine de l’État, ont pu être distribués convenablement et vendus à la charge de se conformer au mode d’exécution arrêté pour les façades, de façon à assurer aux abords de la résidence royale la régularité et la dignité convenables, et à éviter qu’il y soit élevé aucune construction mesquine ou bizarre. Enfin, autant les portiques, malgré les avantages qu’ils présentent en eux-mêmes, conviendraient peu, en général, dans le centre de la ville, où la largeur toujours assez restreinte des rues ne laisse jamais trop dejour ni d’air, et où le terrain est si précieux pour le commerce et l’industrie, autant ils conviennent, au contraire, dans ces rues larges et bien éclairées</p>
+              <p>Le vaste emplacement compris entre les rues de Rivoli, de Castiglione, du Mont-Thabor et Neuve-du-Luxembourg, avait d’abord été, dans les dernières années de l’Empire, destiné à un nouvel Hôtel des Postes, en remplacement de celui qui existe au centre du quartier populeux et commerçant de la place des Victoires. Les constructions furent même commencées à cet effet en 1812, d’après les dessins et sous la direction de feu <persName>M. Bénard</persName>, architecte du Ministère des Finances.</p>
+              <p>Mais, en 1822, on abandonna ce projet ; et l’on conçut l’idée utile de réunir en cet endroit, non-seulement le Ministère de Finances et le Trésor royal (qui occupaient deux vastes hôtels à droite et à gauche de l’entrée de la rue Vivienne), mais encore toutes les administrations financières accessoires qui étaient disséminées dans divers quartiers. C’est ce qui a eu lieu en effet au grand avantage du public.</p>
+              <p>La totalité des constructions a coûté à peu près 10,400,000 fr.</p>
+              <p>Il a été fait, en outre, l’acquisition d’un nombre assez considérable de maisons particulières sur les rues de Castiglione et Neuve-du-Luxembourg. Quelques-unes de ces maisons, à l’angle des deux rues, ont été provisoirement conservées, et affectées à diverses branches de l’administration ; on se propose de les démolir plus tard pour compléter l’ensemble de l’édifice.</p>
+            </div>
+            <div>
+              <head>Hôtel de préfecture,</head>
+              <head>À Ajaccio (Corse) ;</head>
+              <head>Par <persName>M. Alphonse De Gisors</persName>, architecte.</head>
+              <head>1822.</head>
+              <label>2 planches numérotées 9 et 10.</label>
+              <p>L’exécution de cet édifice a été confiée à <persName>M. Jouvin</persName>, ingénieur des ponts et chaussées, et a subi divers chahgemens.</p>
+            </div>
+            <cb/><!-- saut de colonne -->
+            <div>
+              <head>Hôtel de préfecture,</head>
+              <head>À Épinal (Vosges) ;</head>
+              <head>Par <persName>M. Grillot</persName>, architecte du département.</head>
+              <head>1824 à 1827.</head>
+              <label>2 planches numérotées 26 et 27.</label>
+              <p>Cet édifice, exécuté avec simplicité, est construit presque entièrement en moellons granitiques du pays, recouverts d’enduits en mortier.</p>
+              <p>Il a coûté à peu près 223,000 fr.</p>
+            </div>
+            <div>
+              <head>Hôtel-de-Ville,</head>
+              <head>À Moulins (Allier) ;</head>
+              <head>Par <persName>M. Agnety</persName>, architecte du département.</head>
+              <head>1821.</head>
+              <label>2 planches numérotées 38 et 39.</label>
+              <p>Cet édifice, indépendamment des diverses localités réclamées par sa destination spéciale, comprend une bibliothèque publique ayant une entrée particulière.</p>
+              <p>Toutes les façades, intérieures et extérieures, sont construites en pierres de taille.</p>
+              <p>L’ensemble de cette construction a coûté 819,000 fr.</p>
+            </div>
+            <div>
+              <head>Hôtel-de-Ville,</head>
+              <head>À Sedan (Ardennes);</head>
+              <head>Par <persName>M. Delerue</persName>, architecte du département.</head>
+              <head>1822.</head>
+              <label>1 planche numérotée 73.</label>
+              <p>Cet édifice, quoique peu étendu, renferme les diverses localités nécessaires à sa destination dans une ville secondaire.</p>
+            </div>
+            <div>
+              <head>Hôtel des monnaies,</head>
+              <head>À Nantes (Loire-Inférieure) ;</head>
+              <head>Par <persName>M. Gengembre</persName>, architecte.</head>
+              <head>1823.</head>
+              <label>2 planches numérotées 203 et 20t.</label>
+              <p>Cet hôtel des monnaies est le seul qui ait été construit spécialement pour cette destination depuis le commencement de ce siècle.</p>
+              <p>Sa construction a coûté environ 13o,ooo fr.</p>
+            </div>
+            </div>
+          </div>
+          <pb/>
+          <fw type="pageNum">9</fw>
+          <div type="chapter">
+            <head rend="capital"><label>Treusième section.</label> Édifices judiciaires.</head>
+            <div>
+              <p>Nous espérons placer dans l’un des volumes suivans le <emph>Palais-de-Justice</emph> de Paris, agrandi et complété d’après l’important projet dont on s’occupe en ce moment.</p>
+            </div>
+            <div>
+            <div>
+              <head>Palais-de-Justice (1),</head>
+              <head>À Aix (Bouche-du-Rhône);</head>
+              <head>Par feu <persName>M. PENCHAUD</persName>, architecte, directeur des travaux publics de la ville de Marseille et du département.</head>
+              <head>1822 à 1832.</head>
+              <label>2 planches numérotées 91 et 92.</label>
+              <p>Quelques années avant la Révolution, l’administration de la province, aidée parle roi, avait conçu le projet de construire, à Aix, un palais-de-justice digne du rang et de l’ancienneté du Parlement auquel il était destiné. L’ancien emplacement du palais des comtes de Provence avait été affecté à cette destination, et des prisons devaient également y être élevées.</p>
+              <p>L’architecte <persName>Ledoux</persName> avait rédigé à ce sujet des projets et des devis qui attestent la magnificence qu’on devait apporter à leur exécution, et il avait fait commencer, en 1783, les constructions du palais même. Bien qu’à l’époque de la Révolution elles ne s’élevassent qu’à trois pieds environ au-dessus du sol, on assure que la dépense était déjà d’environ 1,5oo,ooo fr. Ces travaux furent alors abandonnés.</p>
+              <p>Vers 1809, on résolut d’utiliser ces constructions, moyennant les modifications convenables, pour y placer le siège de la cour royale d’Aix; mais le commencement des travaux n’eut lieu qu’en 1822. Ils ont été terminés en 1832 , et ont occasionné une nouvelle dépense d’environ............... 970,000 fr.</p>
+              <p>Le mobilier a coûté en outre à peu près. . .	60,000</p>
+              <p>Ensemble...................... 1,o3o,ooo fr.</p>
+              <p>Qui ont été supportés, à peu près, moitié par l’État et moitié par le département.</p>
+              <p>(1) On sait que cette dénomination doit être réservée aux sièges de <emph>Cours royales</emph></p>
+            </div>
+            <fw type="bindmark">T. I.</fw>
+            <cb/><!-- saut de colonne -->
+              <div>
+                <head>Cour d'assises et Tribunal civil,</head>
+                <head>À Valence (Drôme) ;</head>
+                <head>Par <persName>M. Chabord</persName>, architecte du département.</head>
+                <head>1824.</head>
+                <label>Une planche numérotée 127.</label>
+                <p>C’est à tort et par erreur que, sur la planche, cet édifice a été désigné sous le titre de <emph>Palais-de-Justice</emph>.</p>
+                <p>L’exécution a coûté environ 180,000 fr.</p>
+              </div>
+              <div>
+                <head>Tribunal de première instance</head>
+                <head>À Saint-Lô (Manche);</head>
+                <head>Par <persName>M. Henry Van Cléemputte</persName>, maintenant architecte du département de l’Aisne.</head>
+                <head>1823.</head>
+                <label>1 planche numérotée 37.</label>
+                <p>La dépense occasionnée par la construction de cet édifice a été d’environ 120,000 fr.</p>
+              </div>
+              </div>
+          </div>
+              <fw type="bindmark">3</fw>
+              <pb/>
+              <fw type="pageNum">11</fw>
+            <div type="chapter">
+            <head rend="capital"><label>Quatrième section</label> Édifices consacrés à l'instruction publique.</head>
+             <div>
+               <p>Nous regrettons de n’avoir pu encore faire connaître les importans travaux exécutés ou en cours d’exécution à Paris,
+                 pour l’agrandissement et le complément des principaux édifices d'<emph>Instruction publique</emph>, tels que : le <emph>Collège royal de France</emph>, l'<emph>École royale des Beaux-Arts</emph>, le <emph>Muséum d'Histoire Naturelle</emph>, etc. ; mais l’importance même de ces constructions nous fait une loi de ne les publier qu’après leur entier achèvement.</p>
+             </div>
+             <div>
+               <div>
+               <head>Collège communal,</head>
+               <head>À Rochefort (Charente-Infèrieure) ;</head>
+               <head>Par <persName>M. Gardes</persName>, architecte de la ville de Rochefort.</head>
+               <head>1828 à 1850.</head>
+               <label>2 planches numérotées 159 et 160.</label>
+               <p>Ce collège est disposé pour recevoir 120 élèves, dont un quart environ comme pensionnaires.</p>
+               <p>Les dépenses de construction se sont élevées à peu près à 150,000 fr.</p>
+               </div>
+               <div>
+              <head>École élémentaire d'enseignement mutuel,</head>
+              <head>À Paris (Seine), rue Sainte-Élisabeth ;</head>
+              <head>Par <persName>M. Maingot</persName>, architecte.</head>
+              <head>1832.</head>
+              <label>1 planche numérotée 184.</label>
+              <p>Cette école est disposée de façon a recevoir, dans des locaux entièrement séparés, 350 garçons et 350 jeunes filles des classes pauvres, auxquels la ville fait donner gratuitement une instruction élémentaire.</p>
+              <p>Elle a coûté environ 102,000 fr., dont 5,000 fr. à peu près pour le mobilier.</p>
+               </div>
+               <div>
+                 <head>École des frères de la doctrine chrétienne,</head>
+                 <head>À Amiens (Somme);</head>
+                 <head>Par <persName>M. Cheussey</persName>, architecte du département.</head>
+                 <head>1824.</head>
+                 <label>Une planche numérotée 36.</label>
+                 <p>Les trois classes de cette école peuvent contenir ensemble environ cent cinquante élèves. Elle comprend, en outre, des logemens pour quatorze frères, dont plusieurs desservent cinq écoles de paroisse.</p>
+                 <p>Elle est construite partie en pierre el partie en briques.</p>
+                 <p>La dépense que sa construction a exigée a été de 65,000 fr.</p>
+               </div>
+               <cb/><!-- saut de colonne -->
+               <div>
+                 <head>Bibliothèque publique,</head>
+                 <head>À Amiens (Somme) ;</head>
+                 <head>Par <persName>M. Cheussey</persName>, architecte du département.</head>
+                 <head>1824.</head>
+                 <label>2 planches numérotées 34 et 35.</label>
+                 <p>Cette bibliothèque est contigué à l’école qui précède; elle peut contenir quarante à cinquante mille volumes, et a occasionné une dépense de 15o,ooo fr. environ.</p>
+               </div>
+               <div>
+                 <head>Jardin de botanique,</head>
+                 <head>À Marseille (Bouches-du-Rhône) ;</head>
+                 <head>Par feu <persName>M. Penchaud</persName>, architecte, directeur des travaux publics du département.</head>
+                 <head>1803 à 1810.</head>
+                 <label>2 planches numérotées 58 et 59.</label>
+                 <p>La dépense qu’a occasionnée cet édifice s’est élevée à environ 3oo,ooo fr., y compris les plantations et les remblais considérables qu’il a fallu faire pour niveler le sol.</p>
+               </div>
+               <div>
+               <head>Musée,</head>
+               <head>À Tours (Indre-et-Loire);</head>
+               <head>Par <persName>M. Guérin</persName>, architecte du département.</head>
+               <head>1825.</head>
+               <label>Une planche numérotée 206.</label>
+               <p>Nous donnons, par un petit plan général, une indication du bel ensemble formé par le pont de Tours, la place Royale et la grande rue qui se prolonge jusqu’à l’extrémité de la ville.</p>
+               <p>Les deux côtés de cette rue et le fond de la place sont bordés de façades régulières, dont le projet avait été conçu, vers le milieu du dix-huitième siècle, par <persName>M. de l’Escapalier</persName>, intendant de la province, et composé par <persName>M. Bagneux</persName>, ingénieur en chef de cette généralité.</p>
+               <p>Ce même ingénieur avait fait construire, de 1780 à 1787, l’hôtel-de-ville, qui occupe la partie droite de la place, ainsi que les façades correspondantes de la partie gauche qui ont été utilisées en 1825, comme on en avait depuis long-temps le projet, pour la construction du musée.</p>
+               </div>
+               </div>
+            </div>
+               <pb/>
+               <fw type="pageNum">13</fw>
+              <div type="chapter">
+                <head rend="capital"><label>Cinquième section.</label> Édifices sanitaires.</head>
+                <div>
+                <div>
+                <head>Lazaret,</head>
+                <head>Sur L'Ile de Ratonneau, dans la Rade de Marseille (Bouclies-du-Rhône) ;</head>
+                <head>Par feu <persName>M. Penchaud</persName>, architecte, directeur des travaux publics du département.</head>
+                <head>1824 à 1826.</head>
+                <label>2 planches numérotées 76 et 77.</label>
+                <p>Il existe depuis long-temps, près de Marseille même, un lazaret très-important ; mais, la fièvre jaune ayant été importée en 1821 d’Amérique en Espagne, le Gouvernement s’occupa de la recherche des moyens propres à en prévenir l’introduction en France : une commission sanitaire centrale fut formée à cet effet à Paris, et son rapport, publié en 1821 (Paris, Imprimerie royale), contient l’indication des dispositions qu’il lui parut utile d’adopter pour la construction de plusieurs lazarets spéciaux ; il est appuyé de projets ou esquisses, rédigés par <persName>MM. Alavoine</persName> et <persName>Godde</persName>, architectes que la commission s’était adjoints.</p>
+                <p>C’est d’après les mêmes vues qu’a été conçu et exécuté le lazaret de Ratonneau que nous plaçons ici, ainsi que celui qui a été construit à Trompeloup près de Bordeaux, par <persName>M. Poitevin</persName>, et qui trouvera sa place au volume suivant.</p>
+                <p>Celui de Ratonneau a coûté environ 700,000 fr., dont le tiers à peu près a été fourni par la ville et la chambre de commerce de Marseille, et le surplus par l’État.</p>
+                <p>Nous devons prévenir qu’il paraît que, dans ces derniers temps, l’Administration a été conduite à adopter, pour la disposition des lazarets en général, et surtout relativement au degré d’utilité des bâtimens d’habitation, d’autres vues que celles qu’avait conçues la commission instituée en 1821. D’après ces nouvelles idées, ce qu’il importe principalement d’y établir, ce sont de vastes hangars pour le dépôt des marchandises ; quant aux bâtimens, ils doivent être réduits à ce qui peut être indispensable aux malades, et au petit nombre de passagers qui tiendraient à ne pas purger leur quarantaine à bord.</p>
+                <p>Ces vues tendent nécessairement à un résultat fort important, c’est-à-dire à une réduction considérable des frais de construction. Il paraît même qu’elles ont conduit à faire reconnaître la suffisance de l’ancien lazaret de Marseille, et que celui de Ratonneau forme maintenant un hôpital destiné aux équipages atteints de maladies contagieuses.</p>
+                <p>Le dixième recueil des <emph>études de construction</emph> de <persName>M. Bruyère</persName> (Paris, 1823) contient les plans des lazarets de Marseille et de plusieurs villes d’Italie, ainsi que divers projets, et des considérations fort intéressantes, mais auxquelles s’appliqueraient aussi nécessairement les nouvelles vues dont nous venons de parler.</p>
+                </div>
+                  <fw type="bindmark">T. I.</fw>
+                  <cb/><!-- saut de colonne -->
+                  <div>
+                    <head>Grand hôpital,</head>
+                    <head>À Bordeaux (Gironde) ;</head>
+                    <head>Par <persName>M. Burguet</persName>, architecte.</head>
+                    <head>1821 à 1829.</head>
+                    <label>4 planches numérotées 105, 106, 107 et 108.</label>
+                    <p>En vertu d’une loi du 2 février 1819, un majorat de 5o,000 fr. de revenu fut institué, à titre de récompense nationale, en faveur du <persName>duc de Richelieu</persName>, président du Conseil des Ministres ; et, par une ordonnance royale du 14 août suivant, la ville de Bordeaux fut autorisée à accepter l’offre faite par lui d’appliquer le produit de ce majorat à la construction d'un hôpital et à d’autres objets d’utilité publique dans cette ville. Un vaste emplacement, situé en face du fort du Hâ (qu’on démolit en ce moment pour la construction d’un Palais-de-justice et de nouvelles prisons), fut consacré à l’établissement de l’hôpital ; et un concours ayant été ouvert, sept architectes présentèrent des projets : deux d’entre eux, <persName>MM. Burguet</persName> et <persName>Marchebeus</persName>, furent admis à un nouveau concours, à la suite duquel le premier fut définitivement chargé de l’exécution ; un second prix fut décerné à <persName>M. Marchebeus</persName>.</p>
+                    <p>La dépense s’est élevée à près de 1,5oo,ooo fr.</p>
+                  </div>
+                  <div>
+                    <head>Hospice Saint-Michel,</head>
+                    <head>À Saint-Mandé (Seine) ;</head>
+                    <head>Par <persName>M. Destailleur</persName>, architecte.</head>
+                    <head>1827 à 1850.</head>
+                    <label>2 planches numérotées 113 et 114.</label>
+                    <p><persName>M. Michel-Jacques Boulard</persName>, ancien tapissier des palais de la couronne, laissa en mourant une fortune considérable et un testament par lequel (en outre de divers legs en faveur de l’Hôtel-Dieu et des bureaux de charité de Paris, ainsi que d’une fondation destinée à doter, chaque année, quatre élèves des hospices) il dispose de 1,o5o,ooo fr. et de plusieurs effets mobiliers, pour la fondation et l’entretien à perpétuité d’un hospice destiné à <emph>douze pauvres honteux septuagénaires</emph>, dont un désigné par chacun des comités de bienfaisance des douze arrondissemens de Paris. Dans ce testament et ses divers codiciles, il annonce avoir fait préparer les plans de l’hospice par <persName>M. Perrier</persName> (décédé depuis), et il désigne <persName>M. Destailleur</persName> comme devant être</p>
+                  </div>
+                </div>
+                <fw type="bindmark">4</fw>
+                <pb/>
+                <fw type="pageNum">14</fw>
+                <div>
+                  <div>
+                  <p>chargé de l’exécution; en outre il entre dans divers détails sur la manière dont l’hospice devra être entretenu, administré, etc.</p>
+                  <p>Il a été dépensé environ :</p>
+                  <p>Pour l’acquisition de l’emplacement........... 40,000 fr.</p>
+                  <p>Et pour l’exécution des constructions..... 495,000</p>
+                  <p>Ensemble.............................. 535,000 fr.</p>
+                  </div>
+                  <div>
+                    <head>Hospice</head>
+                    <head>À Fréjus (Var) ;</head>
+                    <head>Par <persName>M. Lantoin</persName>, architecte du département.</head>
+                    <head>1828.</head>
+                    <label>1 planche numérotée 69.</label>
+                    <p>Ce petit hospice, disposé pour douze ou quinze malades de chaque sexe, a coûté à peu près 36,ooo fr.</p>
+                  </div>
+                  <div>
+                    <head>Asile sépartemental d'aliénés,</head>
+                    <head>Dans L'ancienne Abbaye de Saint-Yon, À Rouen (seine-inférieure);</head>
+                    <head>Commencé par <persName>M. Jouannin</persName>, architecte du département, et continué par son successeur, <persName>M. Grégoire.</persName></head>
+                    <head>1821 à 1827.</head>
+                    <label>2 planches numérotées 128 et 129.</label>
+                    <p>Il y a peu d’années encore, les aliénés étaient, presque partout en France, renfermés dans des loges ou cabanons plus ou moins resserrés, et quelquefois presque entièrement privés de jour et d’air ; mais, enfin, l’on est arrivé à reconnaître'que l’amélioration du sort de ces malheureux dépend de soins bien entendus, et principalement de logemens sains, et, autant que possible, en vue de la campagne, ou au moins de quelques plantations.</p>
+                    <p>Pendant le ministère de <persName>M. le duc Decazes</persName>, une commission fut formée à ce sujet sous la présidence de <persName>M. le baron Hély d’Oissel</persName>, conseiller d’État et directeur des travaux de Paris ; elle était composée, en outre, de <persName>M. le docteur Esquirol</persName>, et de <persName>MM. Godde</persName> et <persName>Alavoine</persName>, architectes. Un programme et des projets modèles furent rédigés pour la création de vastes asiles départementaux ; et quoique, malheureusement, le travail de la commission n’ait pas été entièrement terminé, ses princi-
+                    pales données ont servi de guid& pour la disposition des nom-
+                    breux édifices de ce genre qui ont été établis sur une échelle plus
+                    ou moins grande.
+                    C’est particuliérement d’après les indications de M. Esquirol
+                    qu’a été disposé, l’un des premiers, celui dont il s’agit ici.
+                    Les anciens bâtimens de l’abbaye de Saint-Yon ont été utilisés
+                    pour divers services, ainsi que pour des dortoirs et chambres
+                    destinés aux pensionnaires, aux convalescens ou aux aliénés
+                    assez tranquilles pour pouvoir vivre en commun ; ce qui est
+                    même souvent un moyen de guérison. L’on a construit en ou-
+                    tre, dans les jardins, un bâtiment de bains; un pavillon pour
+                    les pensionnaires convalescens, et enfin cinq quartiers pour les
+                    aliénés indigens, de façon à les classer, d’abord par sexe (le
+                    nombre des femmes aliénées est ordinairement plus considérable
+                    que celui des hommes), et ensuite par genre d’affections ou
+                    suivant leur plus ou moins grande intensité, en ayant soin, en
+                    même temps, de ne rapprocher qu’un assez petit nombre d’in-
+                    dividus (douze dans chaque quartier).
+                    Ces diverses constructions ont été établies en briques, sur
+                    socles en pierre, et couvertes en ardoise.</p>
+                  </div>
+                </div>
+                </div>
+            
         </body>
       </text>
       <text>
