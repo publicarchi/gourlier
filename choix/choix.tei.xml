@@ -556,7 +556,7 @@
                       <p>La totalité des fondations a été établie en béton, en raison de la nature inégale du sol, qui aurait exigé, pour un autre mode de construction, des fouilles extrêmement profondes.</p>
                       <p>Les murs extérieurs sont construits en meulières avec socles et chaînes en pierre de taille.</p>
                       <p>Les planchers sont établis sur des poteaux en bois à 4 mètres environ l’un de l’autre, espacement à peu près semblable à celui qui a été adopté pour les entrepôts d’Anvers et de beaucoup d’autres villes, comme également convenable sous le rapport de la solidité et de la facilité du service. Ces planchers sont considérés comme pouvant recevoir moyennement, suivant la nature des marchandises, 75o kilogrammes (trois quarts de tonneau ou quintal métrique) par mètre carré ; de sorte qu’en y comprenant les hangars accessoires, la partie actuellement construite peut contenir environ 10,000 tonneaux. Cette quantité pourrait être triplée en exécutant la totalité du projet.</p>
-                      <p>Les frais de construction sont revenus pour chaque corps de magasin à environ 450,000 fr., et pour toute la partie exécutée de l’entrepôt à 1,500,000 fr. L’achèvement de la totalité porterait l’ensemble de la dépense, à peu près, à 4,000,000 de fr. Dans ces sommes n’est pas comprise la valeur du terrain ; il a été fourni par la ville, à laquelle la propriété de l’entrepôt doit rester au bout de 81 ans.</p>
+                      <p>Les frais de construction sont revenus pour chaque corps de magasin à environ 450,000 fr., et pour toute la partie exécutée de l’entrepôt à 1,500,000 fr. L’achèvement de la totalité porterait l’ensemble de la dépense, à peu près, à 4,000,000 de fr. Dans ces sommes n’est pas comprise la valeur du terrain ; il a été fourni par la ville, à laquelle la propriété de l’entrepôt doit rester au bout de 81 ans.</p>
                       <p>La partie exécutée l’a été en moins de neuf mois.</p>
                     </div>
                     <cb/><!-- saut de colonne -->
@@ -737,6 +737,7 @@
                       <label>1 planche numérotée 01.</label>
                       <p>La dépense occasionnée par la construction du premier de ces
                       deux petits édifices s’est élevée à la somme de 20,000 fr.</p>
+                    </div>
                       <cb/><!-- saut de colonne -->
                       <div>
                         <head>Maison d’arrêt</head>
@@ -758,10 +759,48 @@
                       </div>
                       <pb/>
                       <fw type="pageNum">23</fw>
-                      
-                    </div>
+                      <div>
+                        <head>Maison de correction,</head>
+                        <head>À Lyon (Rhône) ;</head>
+                        <head>Par <persName>M. Baltard</persName> père, architecte, professeur à l’École royale d’architecture.</head>
+                        <head>1830.</head>
+                        <label>2 planches numérotées 165 et 166.</label>
+                        <p>Cette maison offre, dans quelques-unes de ses parties, un exemple de l’emploi des cellules ou confinemens solitaires.</p>
+                        <p>Elle peut contenir deux cents à deux cent cinquante individus, la plupart occupés dans les ateliers.</p>
+                      </div>
+                      <div>
+                        <head>Maison de police, d’arrêt, de justice et de correction,</head>
+                        <head>À Saintes (Charente-Inférieure)</head>
+                        <head>Par <persName>M. Brossard</persName>, architecte du département.</head>
+                        <head>1831 à 1832.</head>
+                        <label>2 planches numérotées 145 et 146.</label>
+                        <p>La dépense des constructions s’est élevée à 160,000 fr.</p>
+                      </div>
+                      <cb/><!-- saut de colonne -->
+                      <div>
+                        <head>Maison centrale de détention pour hommes,</head>
+                        <head>À Melun (Seine-et-Marne) ;</head>
+                        <head>Commencée par feu <persName>M. Solente</persName>, architecte du département,</head>
+                        <head>Et continuée par son successeur, <persName>M. Dupont</persName>.</head>
+                        <head>1812 à 1836.</head>
+                        <label>2 planches numérotées 163 et 164.</label>
+                        <p>Cette maison occupe la pointe d’une île qui fait partie de la ville de Melun.</p>
+                        <p>L’existence en cet endroit d’une ancienne église, à la conservation de laquelle on a tenu avec raison, a occasionné l’établissement d’une double entrée, ce qui n’est pas sans quelque inconvénient. Une des portes sert à l’administration et au service général de la prison, et l’autre pour la cuisine, la boulangerie et d’autres dépendances.</p>
+                        <p>Cette maison peut contenir mille cinquante détenus ; et, à l’exception des malades, des infirmes et des détenus en punition, tous (c’est-à-dire plus de neuf cents) sont occupés à des travaux de tisseranderie, d’ébénisterie, de passementerie, de bonneterie, de quincaillerie, de plaqué, etc.</p>
+                        <p>Quelques parties de celte maison restent encore à terminer. La totalité des dépenses s’est élevée jusqu’ici à près de 2,000,000 de fr.</p>
+                      </div>
                   </div>
+                 </div>
+                <pb/>
+                <fw type="pageNum">25</fw>
+                <div type="chapter">
+                  <head rend="capital"><label>Huitième section.</label> Monuments publics.</head>
+                  <div>
                     
+                    
+                  </div>
+                
+                
                 </div>
                 
                 </div>
