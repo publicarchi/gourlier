@@ -533,7 +533,7 @@
                       <p>(<emph>Rapport du Préfet au nouveau Conseil municipal</emph>, le 7 décembre 1834.)</p>
                       <p>Dans cette somme totale on peut distinguer les sommes partielles ci-après :</p>
                       <p rend="justified">Sommes payées à 14 artistes (5 peintres et 9 statuaires) pour les tableaux, statues, bas-reliefs, etc. 186,400 fr.</p>
-                      <p>Nota. — Des détails exacts de ces sommes et des objets auxquels elles ont rapport sont donnés par le <emph>Guide dans le palais dela Bourse</emph> (Paris, 1833 , Firmin Didol).</p>
+                      <note><p>Nota. — Des détails exacts de ces sommes et des objets auxquels elles ont rapport sont donnés par le <emph>Guide dans le palais de la Bourse</emph> (Paris, 1833 , Firmin Didot).</p></note>
                       <p rend="justified">Sculptures d’ornemens pour chapiteaux, frises, etc. 282,600</p>
                       <fw type="bindmark">5</fw>
                       <pb/>
@@ -669,7 +669,7 @@
                       <p rend="justified">Ensemble 2,460,176 fr.</p>
                       <p>(<emph>Rapport du Préfet au Conseil municipal, en date du 27 décembre 1834.</emph>)</p>
                       <cb/><!-- saut de colonne -->
-                      <p>Au besoin, on trouverait des notions plus détaillées sur ces établissemens tant dans l’ouvrage précité de <persName>M. Bruyère</persName> qu’au mot <emph>Abattoir</emph> du <emph>Dictionnaire de l’Industrie</emph> (Baillière, 1833) et de l’<emph>Encyclopédie du XIX<hi rend="exposant">e</hi> siècle</emph> (Paris, 1836).</p><!-- est-ce que je peux faire comme ça l’exposant? -->
+                      <p>Au besoin, on trouverait des notions plus détaillées sur ces établissemens tant dans l’ouvrage précité de <persName>M. Bruyère</persName> qu’au mot <emph>Abattoir</emph> du <emph>Dictionnaire de l’Industrie</emph> (Baillière, 1833) et de l’<emph>Encyclopédie du XIX<hi rend="exposant">e</hi> siècle</emph> (Paris, 1836).</p><!-- est-ce que je peux faire comme ça pour l’exposant? -->
                     </div>
                     <div>
                       <head>Abattoir à porcs,</head>
