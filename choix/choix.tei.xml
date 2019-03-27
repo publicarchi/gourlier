@@ -974,7 +974,7 @@
                       <head>1826.</head>
                       <label>1 planche numérotée 198.</label>
                       <p>Une souscription nationale ayant été ouverte pour élever un tombeau au général Foy, en même temps que pour doter ses enfans, il fut institué un concours, à la suite duquel la composition que nous représentons ici fut choisie, et exécutée.</p>
-                      <p>La statue et les <sic>différens</sic> bas-reliefs qui ornent ce tombeau sont en marbre, et ont été gravés et publiés par <persName>M. Le Roux</persName> (Paris, 1831).</p>
+                      <p>La statue et les différens bas-reliefs qui ornent ce tombeau sont en marbre, et ont été gravés et publiés par <persName>M. Le Roux</persName> (Paris, 1831).</p>
                       <p>La dépense s’est élevée à peu près :</p>
                       <p rend="justified">Pour les travaux de construction, à 50,000 fr.</p>
                       <p rend="justified">Et pour ceux de statuaire, à 40,000</p>
@@ -987,6 +987,60 @@
                 <fw type="pageNum">31</fw>
                 <div type="chapter">
                   <head rend="capital"><label>Dixième section.</label> Édifices mixtes.</head>
+                  <div>
+                    <p>Ainsi que nous l’avons déjà indiqué, nous avons dû adopter cettte dénomination dans deux cas particuliers qui ne nous permettaient pas de classer quelques édifices dans une des sections spéciales qui précèdent.</p>
+                    <p>Souvent d’abord, plusieurs édifices distincts, et ayant une destination plus ou moins différente, se trouvent construits l’un à côté de l’autre, de façon à former un ensemble qu’il convenait de représenter dans les mêmes planches. Ce cas est, en général, celui dont nous donnerons des exemples dans ce volume ; comme chacun de ces ensembles est formé d’édifices ayant entre eux une certaine analogie et des rapports obligés, leur rapprochement n’a rien que de convenable et d’avantageux.</p>
+                    <p>Quelquefois aussi, des localités affectées à des services plus ou moins différens se trouvent réunies dans un seul et même édifice. Ce parti n’est pas toujours sans inconvénient ; mais, comme il peut arriver qu’on y soit conduit par des raisons d’économie ou par des convenances locales plus ou moins fondées, nous en offrirons peut-être quelques exemples dans le volume suivant.</p>
+                  </div>
+                  <div>
+                    <div>
+                      <head>Hôtel-de-ville, tribunal et maison d’arrêt,</head>
+                      <head>À Clermont-Ferrand (Puy-de-Dôme) ;</head>
+                      <head>Par <persName>M. Ledru</persName>, architecte du département.</head>
+                      <head>1825 à 1836.</head>
+                      <label>3 planches numérotées 13, 14 et 15.</label>
+                      <p>Cet édifice considérable n’est pas encore entièrement exécuté.</p>
+                    </div>
+                    <div>
+                      <head>Tribunal,</head>
+                      <head>Par feu <persName>M. Penchaud</persName>, architecte du département des Bouches-du-Rhône</head>
+                      <head>et maison d’arrêt, de justice et de correction,</head>
+                      <head>Par <persName>M. Baltard</persName> père, et <persName>M. Lantoin</persName>, architecte du département ;</head>
+                      <head>À Draguignan (Var).</head>
+                      <head>1824.</head>
+                      <label>2 planches numérotées 71 et 72.</label>
+                      <p>On voit, par le plan, qu’indépendamment du rapprochement fort convenable qui existe entre ees deux édifices, ils sont en outre à proximité des casernes de gendarmerie et de ligne qui occupent les bâtimens voisins.</p>
+                      <p>La population des prisons est à pou près de 100 à 150 individus, tant hommes que femmes.</p>
+                      <p>Ces deux édifices sont construits ainsi qu’il suit : toutes les parties des murs de face portant saillies ou moulures sont construites en pierre calcaire très-dure, ainsi que les cadres des ouvertures à rez-de-chaussée ; ceux des ouvertures au-dessus du rez-de-chaussée sont en briques ; le surplus des murs est en moellon. Diverses parties du rez-de-chaussée de la prison sont voûtées en briques posées à plat sur bain de mortier, etc.</p>
+                      <p>La dépense des constructions s’est élevée :</p>
+                      <p rend="justified">Pour le tribunal, à environ 50,000 fr.</p>
+                      <p rend="justified">Et pour les prisons, à......... 128,000</p>
+                      <p rend="justified">Ensemble 178,000 fr.</p>
+                    </div>
+                    <cb/><!-- saut de colonne -->
+                    <div>
+                      <head>Caserne de gendarmerie et maison d’arrêt,</head>
+                      <head>À Marseille (Bouches-du-Rhône) ;</head>
+                      <head>Par feu <persName>M. Penchaud</persName>, architecte, directeur des travaux publics du département.</head>
+                      <head>1820 à 1823</head>
+                      <label>2 planches numérotées 87 et 88.</label>
+                      <p>Ces édifices ont été construits dans l’ancien jardin des Présentines, près de la porte d’Aix, acquis à cet effet par la ville pour environ 39,000 fr.</p>
+                      <p>La caserne, construite d’abord ainsi qu’elle est représentée ici pour le logement de trois brigades, a coûté à peu près 176,000 fr.</p>
+                      <p>Au moyen de l’exhaussement d’un nouvel étage, on y a placé depuis deux brigades de plus.</p>
+                      <p rend="justified">Cette addition a coûté 20,000</p>
+                      <p rend="justified">Ce qui fait en tout 196,000 fr.</p>
+                      <p>La maison d’arrêt est disposée pour 60 individus tant hommes que femmes. Sa construction a coûté environ 179,000 fr.</p>
+                    </div>
+                    <div>
+                      <head>Marché et salle de réunion publique,</head>
+                      <head>À Joigny (Yonne) ;</head>
+                      <head>Par feu <persName>M. Hurtault</persName>, architecte, membre de l’Institut.</head>
+                      <head>1823.</head>
+                      <label>2 planches numérotées 5 et 6.</label>
+                      <p>La salle de réunion publique a récemment été disposée pour servir de salle de spectacle.</p>
+                      <p>L’ancienne porte Saint-Jacques, qui est représentée sur le plan, a été détruite récemment. Cela est d’autant plus regrettable qu’elle offrait le plus grand intérêt, tant par son antiquité que par les détails remarquables de son architecture.</p>
+                    </div>
+                  </div>
                 </div>
               </div>
         </body>
