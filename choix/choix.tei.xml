@@ -937,9 +937,56 @@
                       <p rend="justified">Et la fontaine, exécutée en pierre dure 10,000</p>
                       <p rend="justified">En tout 40,000 fr.</p>
                     </div>
-                    <pb/>
-                    <fw type="pageNum">29</fw>
+                   </div>
+                  </div>
+                  <pb/>
+                  <fw type="pageNum">29</fw>
+                <div type="chapter">
+                  <head rend="capital"><label>Neuvième section.</label> Édifices funéraires.</head>
+                  <div>
+                    <p>Nous plaçons dans ce volume les chapelles funéraires construites à Paris, rue d’Anjou, et à Orange, ainsi que le tombeau élevé au <persName>général Foy</persName>. Dans le volume suivant, cette section comprendra principalement les chapelles funéraires de Quiberon, par <persName>M. Caristie</persName>.</p>
+                  </div>
+                  <div>
+                  <div>
+                    <head>Chapelle funéraire,</head>
+                    <head>À Paris, rue d’Anjou (Seine) ;</head>
+                    <head>Par <persName>M. Fontaine</persName>, architecte du Roi, membre de l’Institut.</head>
+                    <head>1815 à 1826.</head>
+                    <label>2 planches numérotées 179 et 180.</label>
+                    <p>Cette chapelle a été élevée sur l’emplacement de l’ancien cimetière de la Madeleine, dans lequel avaient été inhumés <persName>Louis XVI</persName> et <persName>Marie-Antoinette</persName>. Leurs dépouilles mortelles furent retrouvées à l’endroit occupé maintenant par l’autel placé dans la crypte, au-dessous de la chapelle même ; elles ont été transférées dans l’église royale de Saint-Denis.</p>
+                    <p>Ce monument, construit entièrement aux frais de la cassette particulière du feu roi <persName>Louis XVIII</persName>, a coûté environ 2,000,000 de fr.</p>
+                  </div>
+                  <div>
+                    <head>Chapelle funéraire,</head>
+                    <head>À Orange (Vaucluse) ;</head>
+                    <head>Par <persName>M. Caristie</persName>, architecte, maintenant membre du Conseil des bâtimens civils.</head>
+                    <head>1823 à 1830.</head>
+                    <label>1 planche numérotée 42.</label>
+                    <p>En 183o, il restait à achever une partie de la voûte de cette chapelle. Depuis cette époque, les travaux ont été suspendus,
+                    <fw type="bindmark">T. I.</fw>
+                      <cb/><!-- saut de colonne -->et il a été question de faire de cet édifice un Musée, où seraient réunies les antiquités qu’on trouve à Orange et dans les environs.</p>
+                    <p>La dépense totale devait s’élever à 46,000 fr., dont environ 30,000 ont été dépensés.</p>
+                  </div>
+                    <div>
+                      <head>Tombeau du <persName>général Foy</persName>,</head>
+                      <head>À Paris, cimetière du Père-Lachaise (Seine) ;</head>
+                      <head>Par <persName>M. Léon Vaudoyer</persName>, architecte, et <persName>M. David</persName>, statuaire, membre de l’Institut.</head>
+                      <head>1826.</head>
+                      <label>1 planche numérotée 198.</label>
+                      <p>Une souscription nationale ayant été ouverte pour élever un tombeau au général Foy, en même temps que pour doter ses enfans, il fut institué un concours, à la suite duquel la composition que nous représentons ici fut choisie, et exécutée.</p>
+                      <p>La statue et les <sic>différens</sic> bas-reliefs qui ornent ce tombeau sont en marbre, et ont été gravés et publiés par <persName>M. Le Roux</persName> (Paris, 1831).</p>
+                      <p>La dépense s’est élevée à peu près :</p>
+                      <p rend="justified">Pour les travaux de construction, à 50,000 fr.</p>
+                      <p rend="justified">Et pour ceux de statuaire, à 40,000</p>
+                      <p rend="justified">En tout 90,000</p>
+                    </div>
+                  </div>
                 </div>
+                <fw type="bindmark">8</fw>
+                <pb/>
+                <fw type="pageNum">31</fw>
+                <div type="chapter">
+                  <head rend="capital"><label>Dixième section.</label> Édifices mixtes.</head>
                 </div>
               </div>
         </body>
