@@ -176,4 +176,4 @@ VIDLER, Anthony. 1977. The Idea of Type: The Transformations in the Academic Ide
 
 --- --- . 1986. Architectural Cryptograms: Style and Type in Romantic Historiography. Perspecta 22, Paradigms of Architecture, p. 136-141.
 
-WITTMAN, Richard. 2015. Print culture and French architecture in the eighteenth and nineteenth centuries: a survey of recent scholarship. Perspective, n ° 1 , p. 113-132.
+WITTMAN, Richard. 2015. Print culture and French architecture in the eighteenth and nineteenth centuries: a survey of recent scholarship. Perspective, n ° 1 , p. 113-132.
