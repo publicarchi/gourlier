@@ -1,6 +1,6 @@
 # Le *Choix d'édifices publics construits et projetés en France* et l'émergence d'une typologie d'architecture publique, 1795-1850
 
-## Description duprojet et de la programmation
+## Description du projet et de la programmation
 
 ### Originalité du projet
 
