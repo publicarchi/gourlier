@@ -90,7 +90,7 @@ BAUDEZ, Basile. 2003. Académie royale d'architecture et école des Beaux-arts, 
 
 --- --- . 2012. Architecture & tradition académique au temps des Lumières. Rennes : Presses universitaires de Rennes.
 
-BOUDON, Françoise. 1996. Une architecture sous influence ? Au crible des principes du Conseil des bâtiments civils. Monuments historiques, n ° 2 00, p. 39-41.
+BOUDON, Françoise. 1996. Une architecture sous influence ? Au crible des principes du Conseil des bâtiments civils. Monuments historiques, n ° 2 00, p. 39-41.
 
 --- --- . 2009. Conbavil. Procès-verbaux des séances du Conseil des Bâtiments civils (1795-1840). Paris : INHA. BOUVIER, Béatrice. 2004. L'édition d'architecture à Paris au XIX siècle. Genève : Droz.
 
@@ -110,11 +110,11 @@ EPRON, Jean-Pierre. 1984. L'école de l'académie (1671-1793) ou l'institution d
 
 --- --- , éd. 1992. Architecture : une anthologie. Liège : Mardaga.
 
-FORTIER, Bruno. 1978. Logique de l'équipement, notes pour une histoire du projet. Architecture Mouvement Continuité, n ° 4 5, p. 80-85.
+FORTIER, Bruno. 1978. Logique de l'équipement, notes pour une histoire du projet. Architecture Mouvement Continuité, n ° 4 5, p. 80-85.
 
-FOUCART, Bruno. 1976. Architecture carcérale et architectes fonctionnalistes en France au XIX siècle. Revue de l\'Art, n ° 32, p. 37-56.
+FOUCART, Bruno. 1976. Architecture carcérale et architectes fonctionnalistes en France au XIX siècle. Revue de l\'Art, n ° 32, p. 37-56.
 
---- --- . 1981. Au paradis des hygiénistes : l'architecture hospitalière au XIX siècle. Monuments historiques, n°114, p. 43-52.
+--- --- . 1981. Au paradis des hygiénistes : l'architecture hospitalière au XIX siècle. Monuments historiques, n°114, p. 43-52.
 
 FOUCAULT, Michel, et al. 1979. Les Machines à guérir. Liège : P. Mardaga.
 
@@ -144,13 +144,13 @@ LOYER, François. 1999. Histoire de l'architecture française. De la Révolution
 
 LUCAN, Jacques. 2009. Composition, non-composition. Lausanne : Presses polytechniques et universitaires romandes.
 
-MADRAZO, Leandro. 1994. Durand and the Science of Architecture. Journal of Architectural Education (1984-) 48 n °1 , p. 12-24.
+MADRAZO, Leandro. 1994. Durand and the Science of Architecture. Journal of Architectural Education (1984-) 48 n °1 , p. 12-24.
 
 --- --- . 1995. The Concept of Type in Architecture, An Inquiry into the Nature of Architectural Form. Thèse de doctorat.
 
 MIGNOT, Claude. 1983. L'Architecture au XIXe siècle. Paris : Éditions du Moniteur.
 
-OECHSLIN, Werner. 1986. Premises for the Resumption of the Discussion of Typology. Assemblage p. 37-53.
+OECHSLIN, Werner. 1986. Premises for the Resumption of the Discussion of Typology. Assemblage p. 37-53.
 
 PAI, Hyungmin. 2002. The portfolio and the diagram : architecture, discourse, and modernity in America. Cambridge, Mass. : MIT Press.
 
@@ -160,20 +160,20 @@ PÉROUSE DE MONTCLOS, Jean-Marie. 1984. Les Prix de Rome. Paris : Berger-Levraul
 
 QUATREMÈRE DE QUINCY, Antoine-Chrysostome. 1825. Type. In Encyclopédie méthodique. Paris.
 
-SOPELSA, Caroline. 2010. Architecture pénitentiaire. Sociétés & Représentations, n ° 30, p. 83-96.
+SOPELSA, Caroline. 2010. Architecture pénitentiaire. Sociétés & Représentations, n ° 30, p. 83-96.
 
 --- --- . 2016. Le XIX siècle et la question pénitentiaire : un siècle d'expérimentations architecturales dans les prisons de Paris. Thèse de doctorat en Histoire de l'art, Architecture contemporaine
 
 SZAMBIEN, Werner. 1984. Jean-Nicolas-Louis Durand, 1760-1834 : de l'imitation à la norme. Paris : Picard.
 
-TEYSSOT, Georges. 1978. La ville-équipement, la production architecturale des bâtiments civils 1795-1848. Architecture, Mouvement, Continuité, n ° 45, p. 86-94.
+TEYSSOT, Georges. 1978. La ville-équipement, la production architecturale des bâtiments civils 1795-1848. Architecture, Mouvement, Continuité, n ° 45, p. 86-94.
 
 --- --- . 1987. Types, programmes et régularité. La diffusion des principes architecturaux au sein du Conseil des bâtiments civils sous le Consulat et l'Empire. Publications de l'École française de Rome. Rome : École française de Rome.
 
---- --- . 1988. Type program and regularity, The diffusion of architectural principle in the Conseil des bâtiments civils. Canon 3 n ° spécial, p. 119-137.
+--- --- . 1988. Type program and regularity, The diffusion of architectural principle in the Conseil des bâtiments civils. Canon 3 n ° spécial, p. 119-137.
 
-VIDLER, Anthony. 1977. The Idea of Type: The Transformations in the Academic Ideal, 1750-1830. Oppositions, n ° 8 , p. 95-108.
+VIDLER, Anthony. 1977. The Idea of Type: The Transformations in the Academic Ideal, 1750-1830. Oppositions, n ° 8 , p. 95-108.
 
---- --- . 1986. Architectural Cryptograms: Style and Type in Romantic Historiography. Perspecta 22, Paradigms of Architecture, p. 136-141.
+--- --- . 1986. Architectural Cryptograms: Style and Type in Romantic Historiography. Perspecta 22, Paradigms of Architecture, p. 136-141.
 
 WITTMAN, Richard. 2015. Print culture and French architecture in the eighteenth and nineteenth centuries: a survey of recent scholarship. Perspective, n ° 1 , p. 113-132.
