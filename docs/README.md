@@ -44,9 +44,9 @@ Pour comprendre le discours typologique à l'œuvre dans ce recueil, il nous par
 
 En parallèle, nous nous proposons de réinscrire les édifices présentés dans ce choix au sein d'une typologie plus large afin de déterminer à la fois les singularités et les filiations existantes avec les partis présentés. Une quantité notable des calques réalisés pour conserver la trace des projets d'architecture publique approuvés par le Conseil des bâtiments civils a été conservée, de surcroît ceux-ci ont été identifiés et sont déjà numérisés et publiés en ligne. Il nous paraît ainsi possible de réinscrire les édifices qui figurent dans le recueil dans des séries qui permettront à la fois de dater l'émergence de certaines compositions ou formation typologique et d'en déterminer le caractère inédit ou encore spécifique. Des recherches iconographiques ponctuelles compléteront, là où cela s'avérera nécessaire, la documentation ainsi réunie.
 
-Au terme de la recherche, outre diverses actions de valorisation et la soumission d'articles dans des revues à comité de lecture, nous nous proposons d'établir une édition critique numérique du Choix d'édifices publics. Le recueil fera l'objet d'une numérisation haute définition à partir de notre exemplaire personnel qui sera réalisée en utilisant le numériseur dont notre groupe de recherche a fait l'acquisition (Graphics). L'ouvrage, muni d'une présentation générale, sera accompagné d'une introduction détaillée pour chacune des sections typologiques du volume. Nous privilégions une édition numérique afin de pouvoir mettre à la large disposition des chercheurs les matériaux textuels traités et l'iconographie libre de d roits collectée dans le cadre de la recherche.
+Au terme de la recherche, outre diverses actions de valorisation et la soumission d'articles dans des revues à comité de lecture, nous nous proposons d'établir une édition critique numérique du Choix d'édifices publics. Le recueil fera l'objet d'une numérisation haute définition à partir de notre exemplaire personnel qui sera réalisée en utilisant le numériseur dont notre groupe de recherche a fait l'acquisition (Graphics). L'ouvrage, muni d'une présentation générale, sera accompagné d'une introduction détaillée pour chacune des sections typologiques du volume. Nous privilégions une édition numérique afin de pouvoir mettre à la large disposition des chercheurs les matériaux textuels traités et l'iconographie libre de droits collectée dans le cadre de la recherche.
 
-### Calendrier de réalisation des a ctivités de recherche 
+### Calendrier de réalisation des activités de recherche 
 
 Le projet est réalisé sur une période de trois ans, en séquences successives qui s'articulent les unes avec les autres.
 
@@ -69,7 +69,7 @@ Le projet est réalisé sur une période de trois ans, en séquences successives
 
 - Production des notices et réécriture
 - Conception de la publication finale
-- 2 e vague de développements informatiques
+- 2e vague de développements informatiques
 - Rédaction des synthèses
 
 ### Plan de diffusion des résultats 
