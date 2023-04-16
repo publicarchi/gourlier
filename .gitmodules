@@ -1,0 +1,3 @@
+[submodule "schemas/objectModel"]
+	path = schemas/objectModel
+	url = https://github.com/publicarchi/objectModel.git
