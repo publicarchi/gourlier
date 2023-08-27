@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/objectModel/schemas/objectModel.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Édifices</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listObject>
+            <head>Édifices du Gourlier</head>
+            <object>
+               <objectIdentifier>
+                  <objectName>Église Notre-Dame-de-Lorette</objectName>
+               </objectIdentifier>
+               <location>
+                  <settlement>Paris</settlement>
+                  <country>France</country>
+               </location>
+               <objectClassification>
+                  <category key="E22-human-made-object" ref="http://www.cidoc-crm.org/Entity/e22-man-made-object/version-6.2.2"><desc>Human-Made Object</desc></category>
+                  <classification key="thesaurusArchi" ref="http://data.culture.fr/thesaurus/page/ark:/67717/T96-96">Église paroissiale</classification>
+               </objectClassification>
+               <listEvent>
+                  <event>
+                     <label>création</label>
+                     <date>1823-1836</date>
+                     <participant>
+                        <persName>Hippolyte Lebas</persName>
+                        <role>architecte</role>
+                     </participant>
+                  </event>
+               </listEvent>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1710369</idno>
+               <idno type="pop">https://www.wikidata.org/wiki/Q1710369</idno>
+            </object>
+            <object>
+               <objectIdentifier>
+                  <objectName></objectName>
+               </objectIdentifier>
+               <objectIdentifier>
+                  <objectName>Église Saint-Vincent</objectName>
+               </objectIdentifier>
+               <objectClassification>
+                  <category key="E22-human-made-object" ref="http://www.cidoc-crm.org/Entity/e22-man-made-object/version-6.2.2"><desc>Human-Made Object</desc></category>
+                  <classification key="thesaurusArchi" ref="http://data.culture.fr/thesaurus/page/ark:/67717/T96-96">Église paroissiale</classification>
+               </objectClassification>
+               <location>
+                  <settlement>Mâcon</settlement>
+                  <district>Saône-et-Loire</district>
+                  <country>France</country>
+               </location>
+               <listEvent>
+                  <event>
+                     <label>création</label>
+                     <date>1810</date>
+                     <participant>
+                        <persName>Guy de Gisors</persName>
+                        <role>architecte</role>
+                     </participant>
+                  </event>
+               </listEvent>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q15954062</idno>
+            </object>
+         </listObject>
+      </body>
+  </text>
+</TEI>
